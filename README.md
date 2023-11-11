@@ -45,7 +45,40 @@ Tenemos el dataset que contiene el reporte de países y su índice de felicidad 
 4. Puesto de Felicidad del país con mayor GDP del 2020:
  *El pais que tiene mayor GDP durante el año 2020 es Ireland, que ocupa en el ranking el puesto 13 de "Ladder Score" pero el primero de GDP*
 
-![Tabla Ejercicio 4]()
+![Tabla Ejercicio 4](https://github.com/FLD1990/BigDataProcessingKc/blob/main/Tablas/Tabla%20ejercicio%204.png)
 
-10. Variación porcentual del GDP promedio a nivel mundial (2020 respecto al 2021) y si aumentó o disminuyó: *{Respuesta}*
-11. País con mayor expectativa de vida y su indicador en el 2019: *{Respuesta}*
+5. Variación porcentual del GDP promedio a nivel mundial (2020 respecto al 2021) y si aumentó o disminuyó:
+  *La variación es de - 3,27% por lo que disminuyó respecto al año precedente*
+
+|    |   Year |   Average Logged GDP per capita |   Change | Change Type   |
+|---:|-------:|--------------------------------:|---------:|:--------------|
+|  0 |   2020 |                         9.75133 |  0       | -             |
+|  1 |   2021 |                         9.43221 | -3.27259 | disminuyó     |
+
+   
+6. País con mayor expectativa de vida y su indicador en el 2019:
+    *El país con mayor esperanza de vida en 2019 fue Singapur con un valor de 77,10 años*
+
+|    | Country name   |   year |   Healthy life expectancy |   Yearly Difference |
+|---:|:---------------|-------:|--------------------------:|--------------------:|
+|  0 | Japan          |   2005 |                    73.2   |          nan        |
+|  1 | Singapore      |   2006 |                    73.6   |          nan        |
+|  2 | Singapore      |   2007 |                    73.9   |            0.3      |
+|  3 | Singapore      |   2008 |                    74.2   |            0.3      |
+|  4 | Singapore      |   2009 |                    74.5   |            0.3      |
+|  5 | Singapore      |   2010 |                    74.8   |            0.3      |
+|  6 | Singapore      |   2011 |                    75.02  |            0.22     |
+|  7 | Japan          |   2012 |                    74.16  |            0.96     |
+|  8 | Singapore      |   2013 |                    75.46  |            0.44     |
+|  9 | Singapore      |   2014 |                    75.68  |            0.22     |
+| 10 | Singapore      |   2015 |                    75.9   |            0.22     |
+| 11 | Singapore      |   2016 |                    76.2   |            0.3      |
+| 12 | Singapore      |   2017 |                    76.5   |            0.3      |
+| 13 | Singapore      |   2018 |                    76.8   |            0.3      |
+| 14 | Singapore      |   2019 |                    77.1   |            0.3      |
+| 15 | Japan          |   2020 |                    75.2   |            1.04     |
+| 16 | Singapore      |   2021 |                    76.953 |           -0.147    |
+| 17 | Average        |    nan |                   nan     |            0.356867 |
+
+
+![Tabla Ejercicio 6]()
