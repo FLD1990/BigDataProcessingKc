@@ -12,6 +12,8 @@ Tenemos el dataset que contiene el reporte de países y su índice de felicidad 
 5. **¿En qué porcentaje a variado a nivel mundial el GDP promedio del 2020 respecto al 2021? ¿Aumentó o disminuyó?**
 6. **¿Cuál es el país con mayor expectativa de vida (“Healthy life expectancy at birth”)? Y ¿Cuánto tenía en ese indicador en el 2019?**
 
+Link a [Medium](https://medium.com/@fernandoldou/bigdata-processing-ce46294387a5) 
+
 **Respuestas:**
 
 1. País más "feliz" del 2021:
