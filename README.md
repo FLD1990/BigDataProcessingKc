@@ -81,4 +81,4 @@ Tenemos el dataset que contiene el reporte de países y su índice de felicidad 
 | 17 | Average        |    nan |                   nan     |            0.356867 |
 
 
-![Tabla Ejercicio 6]()
+![Tabla Ejercicio 6](https://github.com/FLD1990/BigDataProcessingKc/blob/main/Tablas/Tabla%20Ejercicio%206.png)
