@@ -39,7 +39,13 @@ Tenemos el dataset que contiene el reporte de países y su índice de felicidad 
 3. País que más veces ocupó el primer lugar en todos los años:
    *Los paises que mas veces han ocupado el primer lugar son Dinamarca y Finlandia, ambos con 7 veces a los largo de la muestra.*
 
+![Tabla Ejercicio 3](https://github.com/FLD1990/BigDataProcessingKc/raw/main/Tablas/Tabla%20ejercicio%203.png)
+
    
-8. Puesto de Felicidad del país con mayor GDP del 2020: *{Respuesta}*
-9. Variación porcentual del GDP promedio a nivel mundial (2020 respecto al 2021) y si aumentó o disminuyó: *{Respuesta}*
-10. País con mayor expectativa de vida y su indicador en el 2019: *{Respuesta}*
+4. Puesto de Felicidad del país con mayor GDP del 2020:
+ *El pais que tiene mayor GDP durante el año 2020 es Ireland, que ocupa en el ranking el puesto 13 de "Ladder Score" pero el primero de GDP*
+
+![Tabla Ejercicio 4]()
+
+10. Variación porcentual del GDP promedio a nivel mundial (2020 respecto al 2021) y si aumentó o disminuyó: *{Respuesta}*
+11. País con mayor expectativa de vida y su indicador en el 2019: *{Respuesta}*
